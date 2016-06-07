@@ -1,0 +1,6 @@
+= DeskOS: plotutils RPM
+
+This is the _plotutils_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/plotutils-2.6-10.el7.nux.src.rpm[plotutils-2.6-10.el7.nux.src.rpm]

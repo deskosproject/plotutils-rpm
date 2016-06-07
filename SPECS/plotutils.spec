@@ -1,7 +1,7 @@
 
 Name:      plotutils
 Version:   2.6
-Release:   10%{?dist}
+Release:   11%{?dist}
 Summary:   GNU vector and raster graphics utilities and libraries
 
 Group:     Applications/Productivity
@@ -117,6 +117,9 @@ fi
 
 
 %changelog
+* Tue Jun 07 2016 Ricardo Arguello <rarguello@deskosproject.org> - 2.6-11
+- Rebuilt for DeskOS
+
 * Wed Dec 04 2013 Stanislav Ochotnicky <sochotnicky@redhat.com> - 2.6-10
 - Fix FTBFS when "-Werror=format-security" is used
 
